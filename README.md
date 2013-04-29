@@ -43,7 +43,6 @@ Parse an in memory string
 ##parser.parseFile(filename)##
 
 Parse a file
-* return: boolean. true if no errors, false otherwise
 * Arguments
 	* filename - a string representing the file to be parsed
 	
